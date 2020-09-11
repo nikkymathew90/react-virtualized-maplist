@@ -1,0 +1,9 @@
+.Row {
+  display: flex;
+}
+
+.Cell {
+  text-align: left;
+  width: 25%;
+  padding-left: 5px;
+}

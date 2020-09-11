@@ -1,0 +1,5971 @@
+[
+  {
+    "postcode": 221,
+    "place_name": "Barton",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3049,
+    "longitude": 149.1412,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2540,
+    "place_name": "Wreck Bay",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1627,
+    "longitude": 150.6907,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2540,
+    "place_name": "Hmas Creswell",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.028,
+    "longitude": 150.5501,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2540,
+    "place_name": "Jervis Bay",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1333,
+    "longitude": 150.7,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2600,
+    "place_name": "Deakin West",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3126,
+    "longitude": 149.1278,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2601,
+    "place_name": "City",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2813,
+    "longitude": 149.1293,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2601,
+    "place_name": "Canberra",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2835,
+    "longitude": 149.1281,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2602,
+    "place_name": "Downer",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2446,
+    "longitude": 149.1447,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2602,
+    "place_name": "Hackett",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2495,
+    "longitude": 149.1635,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2603,
+    "place_name": "Red Hill",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3262,
+    "longitude": 149.1191,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2603,
+    "place_name": "Forrest",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.315,
+    "longitude": 149.1286,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2605,
+    "place_name": "Hughes",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3327,
+    "longitude": 149.0949,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2606,
+    "place_name": "O'Malley",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3525,
+    "longitude": 149.1128,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2606,
+    "place_name": "Lyons",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3406,
+    "longitude": 149.074,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2606,
+    "place_name": "Chifley",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3534,
+    "longitude": 149.0768,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2606,
+    "place_name": "Woden",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3481,
+    "longitude": 149.0905,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2607,
+    "place_name": "Isaacs",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3686,
+    "longitude": 149.1156,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2607,
+    "place_name": "Torrens",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.372,
+    "longitude": 149.0877,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2607,
+    "place_name": "Mawson",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3634,
+    "longitude": 149.0986,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2607,
+    "place_name": "Farrer",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3767,
+    "longitude": 149.105,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2607,
+    "place_name": "Pearce",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3622,
+    "longitude": 149.0834,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2608,
+    "place_name": "Civic Square",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.31,
+    "longitude": 149.1933,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2609,
+    "place_name": "Pialligo",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3201,
+    "longitude": 149.207,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2609,
+    "place_name": "Canberra Airport",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3172,
+    "longitude": 149.1753,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2609,
+    "place_name": "Fyshwick",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3333,
+    "longitude": 149.1667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2609,
+    "place_name": "Symonston",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3516,
+    "longitude": 149.1592,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2609,
+    "place_name": "Majura",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2667,
+    "longitude": 149.2,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2610,
+    "place_name": "Canberra Bc",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2778,
+    "longitude": 149.0111,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2610,
+    "place_name": "Canberra Mc",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2498,
+    "longitude": 149.0591,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2611,
+    "place_name": "Stirling",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3497,
+    "longitude": 149.0493,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2612,
+    "place_name": "Campbell",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2891,
+    "longitude": 149.1538,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2612,
+    "place_name": "Turner",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2688,
+    "longitude": 149.1247,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2614,
+    "place_name": "Cook",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2601,
+    "longitude": 149.0657,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2614,
+    "place_name": "Aranda",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2582,
+    "longitude": 149.0804,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2614,
+    "place_name": "Page",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2386,
+    "longitude": 149.0499,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2614,
+    "place_name": "Hawker",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2471,
+    "longitude": 149.0367,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2614,
+    "place_name": "Scullin",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2346,
+    "longitude": 149.039,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2614,
+    "place_name": "Jamison Centre",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2498,
+    "longitude": 149.0591,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Fraser",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1917,
+    "longitude": 149.0453,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Spence",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1987,
+    "longitude": 149.0644,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Florey",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2259,
+    "longitude": 149.05,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Holt",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2244,
+    "longitude": 149.0119,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Charnwood",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2002,
+    "longitude": 149.0341,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Higgins",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2324,
+    "longitude": 149.0272,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Dunlop",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.194,
+    "longitude": 149.0198,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Kippax",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2101,
+    "longitude": 149.034,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Melba",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2102,
+    "longitude": 149.0541,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Flynn",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2059,
+    "longitude": 149.0439,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2615,
+    "place_name": "Kippax Centre",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2101,
+    "longitude": 149.034,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2616,
+    "place_name": "Belconnen",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2167,
+    "longitude": 149.0833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2617,
+    "place_name": "Lawson",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2241,
+    "longitude": 149.0998,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2617,
+    "place_name": "Giralang",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2109,
+    "longitude": 149.096,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2618,
+    "place_name": "Hall",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1685,
+    "longitude": 149.0683,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2620,
+    "place_name": "Hume",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3855,
+    "longitude": 149.1658,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2620,
+    "place_name": "Paddys River",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3914,
+    "longitude": 149.2166,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2620,
+    "place_name": "Beard",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3422,
+    "longitude": 149.2101,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2620,
+    "place_name": "Oaks Estate",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3397,
+    "longitude": 149.2121,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2620,
+    "place_name": "Tharwa",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.5167,
+    "longitude": 149.0667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2620,
+    "place_name": "Kowen",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3914,
+    "longitude": 149.2166,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2900,
+    "place_name": "Greenway",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4183,
+    "longitude": 149.0666,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2900,
+    "place_name": "Tuggeranong",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4158,
+    "longitude": 149.0649,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2901,
+    "place_name": "Tuggeranong Dc",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4333,
+    "longitude": 149.15,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2902,
+    "place_name": "Kambah",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3862,
+    "longitude": 149.058,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2902,
+    "place_name": "Kambah Village",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3862,
+    "longitude": 149.058,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2903,
+    "place_name": "Erindale Centre",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3998,
+    "longitude": 149.0888,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2903,
+    "place_name": "Oxley",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4095,
+    "longitude": 149.0786,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2903,
+    "place_name": "Wanniassa",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.3978,
+    "longitude": 149.0909,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2904,
+    "place_name": "Fadden",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.405,
+    "longitude": 149.1166,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2904,
+    "place_name": "Monash",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4158,
+    "longitude": 149.0906,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2904,
+    "place_name": "Gowrie",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4119,
+    "longitude": 149.109,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2904,
+    "place_name": "Macarthur",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4089,
+    "longitude": 149.127,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2905,
+    "place_name": "Isabella Plains",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4283,
+    "longitude": 149.088,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2905,
+    "place_name": "Theodore",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4496,
+    "longitude": 149.1197,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2905,
+    "place_name": "Gilmore",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4199,
+    "longitude": 149.1348,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2905,
+    "place_name": "Richardson",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4279,
+    "longitude": 149.1138,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2905,
+    "place_name": "Calwell",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4404,
+    "longitude": 149.1071,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2905,
+    "place_name": "Chisholm",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4125,
+    "longitude": 149.1283,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2905,
+    "place_name": "Bonython",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4333,
+    "longitude": 149.0782,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2906,
+    "place_name": "Conder",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4593,
+    "longitude": 149.1042,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2906,
+    "place_name": "Gordon",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4568,
+    "longitude": 149.085,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2906,
+    "place_name": "Banks",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.4719,
+    "longitude": 149.0997,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2911,
+    "place_name": "Mitchell",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2145,
+    "longitude": 149.1293,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2911,
+    "place_name": "Crace",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.2028,
+    "longitude": 149.1074,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2912,
+    "place_name": "Gungahlin",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1867,
+    "longitude": 149.1362,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Casey",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.167,
+    "longitude": 149.0947,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Franklin",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1995,
+    "longitude": 149.1433,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Taylor",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1489,
+    "longitude": 149.1092,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Palmerston",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1945,
+    "longitude": 149.1194,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Kinlyside",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1754,
+    "longitude": 149.0798,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Nicholls",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1873,
+    "longitude": 149.0965,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Ginninderra Village",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1875,
+    "longitude": 149.1244,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2913,
+    "place_name": "Ngunnawal",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1728,
+    "longitude": 149.1115,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2914,
+    "place_name": "Bonner",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1623,
+    "longitude": 149.1386,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2914,
+    "place_name": "Forde",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1682,
+    "longitude": 149.1461,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2914,
+    "place_name": "Harrison",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1991,
+    "longitude": 149.1563,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2914,
+    "place_name": "Amaroo",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1696,
+    "longitude": 149.128,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2914,
+    "place_name": "Moncrieff",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1651,
+    "longitude": 149.1179,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2914,
+    "place_name": "Jacka",
+    "state_name": "Australian Capital Territory",
+    "state_code": "ACT",
+    "latitude": -35.1568,
+    "longitude": 149.1288,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1001,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1002,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1003,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1004,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1005,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1006,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1007,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1127,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1128,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1129,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1130,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1131,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1132,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1133,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1134,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1135,
+    "place_name": "Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8678,
+    "longitude": 151.2073,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5000,
+    "place_name": "Sturt Street",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9287,
+    "longitude": 138.5986,
+    "accuracy": 3
+  },
+  {
+    "postcode": 5001,
+    "place_name": "Adelaide",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9287,
+    "longitude": 138.5986,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5005,
+    "place_name": "University Of Adelaide",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9006,
+    "longitude": 138.5702,
+    "accuracy": 1
+  },
+  {
+    "postcode": 5005,
+    "place_name": "The University Of Adelaide",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9006,
+    "longitude": 138.5702,
+    "accuracy": 1
+  },
+  {
+    "postcode": 5005,
+    "place_name": "Adelaide University",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9006,
+    "longitude": 138.5702,
+    "accuracy": 1
+  },
+  {
+    "postcode": 5006,
+    "place_name": "North Adelaide",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9073,
+    "longitude": 138.5914,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5006,
+    "place_name": "North Adelaide Melbourne St",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9006,
+    "longitude": 138.5702,
+    "accuracy": 3
+  },
+  {
+    "postcode": 5007,
+    "place_name": "Welland",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9,
+    "longitude": 138.5333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5007,
+    "place_name": "West Hindmarsh",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9079,
+    "longitude": 138.5641,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5007,
+    "place_name": "Hindmarsh",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9014,
+    "longitude": 138.575,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5007,
+    "place_name": "Brompton",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8944,
+    "longitude": 138.5782,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5007,
+    "place_name": "Bowden",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9026,
+    "longitude": 138.5791,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5008,
+    "place_name": "Dudley Park",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8756,
+    "longitude": 138.5773,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5008,
+    "place_name": "West Croydon",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8945,
+    "longitude": 138.5593,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5008,
+    "place_name": "Croydon",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.9006,
+    "longitude": 138.5702,
+    "accuracy": 3
+  },
+  {
+    "postcode": 5008,
+    "place_name": "Devon Park",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8865,
+    "longitude": 138.5823,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5008,
+    "place_name": "Renown Park",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8917,
+    "longitude": 138.5773,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5008,
+    "place_name": "Ridleyton",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8928,
+    "longitude": 138.5716,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5008,
+    "place_name": "Croydon Park",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8803,
+    "longitude": 138.5678,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5009,
+    "place_name": "Kilkenny",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8791,
+    "longitude": 138.5529,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5009,
+    "place_name": "Beverley",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8951,
+    "longitude": 138.5463,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5009,
+    "place_name": "Allenby Gardens",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8977,
+    "longitude": 138.5542,
+    "accuracy": 4
+  },
+  {
+    "postcode": 5010,
+    "place_name": "Regency Park",
+    "state_name": "South Australia",
+    "state_code": "SA",
+    "latitude": -34.8626,
+    "longitude": 138.5724,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1215,
+    "place_name": "Australia Square",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1216,
+    "place_name": "Grosvenor Place",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1217,
+    "place_name": "Grosvenor Place",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1218,
+    "place_name": "Grosvenor Place",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1219,
+    "place_name": "Grosvenor Place",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1220,
+    "place_name": "Grosvenor Place",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1221,
+    "place_name": "Royal Exchange",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1222,
+    "place_name": "Royal Exchange",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1223,
+    "place_name": "Royal Exchange",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1224,
+    "place_name": "Royal Exchange",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1225,
+    "place_name": "Royal Exchange",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1226,
+    "place_name": "Queen Victoria Building",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1227,
+    "place_name": "Queen Victoria Building",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1228,
+    "place_name": "Queen Victoria Building",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1229,
+    "place_name": "Queen Victoria Building",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8707,
+    "longitude": 151.2068,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1230,
+    "place_name": "Queen Victoria Building",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8787,
+    "longitude": 151.2053,
+    "accuracy": 1
+  },
+  {
+    "postcode": 6090,
+    "place_name": "Malaga",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.8526,
+    "longitude": 115.881,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6100,
+    "place_name": "Burswood",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9587,
+    "longitude": 115.904,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6100,
+    "place_name": "Lathlain",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9676,
+    "longitude": 115.9063,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6100,
+    "place_name": "Victoria Park",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9762,
+    "longitude": 115.9052,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6101,
+    "place_name": "Carlisle South",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9842,
+    "longitude": 115.911,
+    "accuracy": 3
+  },
+  {
+    "postcode": 6101,
+    "place_name": "Carlisle",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9795,
+    "longitude": 115.9181,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6101,
+    "place_name": "East Victoria Park",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9889,
+    "longitude": 115.9039,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6101,
+    "place_name": "Carlisle North",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9842,
+    "longitude": 115.911,
+    "accuracy": 3
+  },
+  {
+    "postcode": 6102,
+    "place_name": "Bentley",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32,
+    "longitude": 115.9167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6102,
+    "place_name": "St James",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32,
+    "longitude": 115.9098,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6102,
+    "place_name": "Bentley DC",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32,
+    "longitude": 115.9132,
+    "accuracy": 3
+  },
+  {
+    "postcode": 6102,
+    "place_name": "Bentley South",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32,
+    "longitude": 115.9132,
+    "accuracy": 3
+  },
+  {
+    "postcode": 6103,
+    "place_name": "Rivervale",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9555,
+    "longitude": 115.9131,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6104,
+    "place_name": "Redcliffe",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9384,
+    "longitude": 115.9464,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6104,
+    "place_name": "Belmont",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9435,
+    "longitude": 115.9255,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6104,
+    "place_name": "Ascot",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9382,
+    "longitude": 115.9226,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6105,
+    "place_name": "Perth Airport",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9321,
+    "longitude": 115.9564,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6105,
+    "place_name": "Kewdale",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9789,
+    "longitude": 115.9516,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6105,
+    "place_name": "Cloverdale",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9628,
+    "longitude": 115.9443,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6106,
+    "place_name": "Welshpool",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -31.9944,
+    "longitude": 115.9222,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6107,
+    "place_name": "Wattle Grove",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32.0067,
+    "longitude": 116.0005,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6107,
+    "place_name": "Queens Park",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32.0031,
+    "longitude": 115.9462,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6107,
+    "place_name": "Kenwick",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32.0333,
+    "longitude": 115.9667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6107,
+    "place_name": "Beckenham",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32.0248,
+    "longitude": 115.9599,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6107,
+    "place_name": "East Cannington",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32.0098,
+    "longitude": 115.955,
+    "accuracy": 4
+  },
+  {
+    "postcode": 6107,
+    "place_name": "Wilson",
+    "state_name": "Western Australia",
+    "state_code": "WA",
+    "latitude": -32.0206,
+    "longitude": 115.9118,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1340,
+    "place_name": "Kings Cross",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.875,
+    "longitude": 151.2223,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1350,
+    "place_name": "Woollahra",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8878,
+    "longitude": 151.2368,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1355,
+    "place_name": "Bondi Junction",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8928,
+    "longitude": 151.2472,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1360,
+    "place_name": "Double Bay",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8778,
+    "longitude": 151.2435,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1363,
+    "place_name": "Moore Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9014,
+    "longitude": 151.2138,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1391,
+    "place_name": "Eastern Suburbs Mc",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8784,
+    "longitude": 151.2313,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1401,
+    "place_name": "Broadway",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1416,
+    "place_name": "Southern Suburbs Mc",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1419,
+    "place_name": "Southern Suburbs Mc",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1420,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1421,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1422,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1423,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1424,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1425,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1426,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1427,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1428,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1429,
+    "place_name": "Strawberry Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9475,
+    "longitude": 151.1522,
+    "accuracy": 1
+  },
+  {
+    "postcode": 1430,
+    "place_name": "Eveleigh",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8956,
+    "longitude": 151.1924,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1435,
+    "place_name": "Alexandria",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9022,
+    "longitude": 151.2004,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1440,
+    "place_name": "Waterloo",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9167,
+    "longitude": 151.2,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1445,
+    "place_name": "Rosebery",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9167,
+    "longitude": 151.2,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1450,
+    "place_name": "Camperdown",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8897,
+    "longitude": 151.1764,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1455,
+    "place_name": "Botany",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.946,
+    "longitude": 151.1959,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1460,
+    "place_name": "Mascot",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.926,
+    "longitude": 151.1935,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1465,
+    "place_name": "Kensington",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9202,
+    "longitude": 151.2224,
+    "accuracy": 4
+  },
+  {
+    "postcode": 1466,
+    "place_name": "Unsw Sydney",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.925,
+    "longitude": 151.2083,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2116,
+    "place_name": "Rydalmere",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8145,
+    "longitude": 151.0375,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2117,
+    "place_name": "Dundas",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8058,
+    "longitude": 151.0339,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2117,
+    "place_name": "Dundas Valley",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7883,
+    "longitude": 151.0526,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2117,
+    "place_name": "Telopea",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7928,
+    "longitude": 151.0386,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2117,
+    "place_name": "Oatlands",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.796,
+    "longitude": 151.0271,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2118,
+    "place_name": "Carlingford",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7827,
+    "longitude": 151.0489,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2118,
+    "place_name": "Carlingford Court",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7776,
+    "longitude": 151.0418,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2118,
+    "place_name": "Carlingford North",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7722,
+    "longitude": 151.0172,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2118,
+    "place_name": "Kingsdene",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7776,
+    "longitude": 151.0418,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2119,
+    "place_name": "Beecroft",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7495,
+    "longitude": 151.0648,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2119,
+    "place_name": "Cheltenham",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7543,
+    "longitude": 151.065,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2120,
+    "place_name": "Pennant Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7378,
+    "longitude": 151.0722,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2120,
+    "place_name": "Thornleigh",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7323,
+    "longitude": 151.079,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2120,
+    "place_name": "Westleigh",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7118,
+    "longitude": 151.0714,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2121,
+    "place_name": "Epping",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7727,
+    "longitude": 151.0818,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2121,
+    "place_name": "North Epping",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7594,
+    "longitude": 151.0925,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2122,
+    "place_name": "Marsfield",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7778,
+    "longitude": 151.1057,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2122,
+    "place_name": "Eastwood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7918,
+    "longitude": 151.0806,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2123,
+    "place_name": "Parramatta",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8167,
+    "longitude": 151,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2124,
+    "place_name": "Parramatta",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8167,
+    "longitude": 151,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2125,
+    "place_name": "West Pennant Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7457,
+    "longitude": 151.0476,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2126,
+    "place_name": "Cherrybrook",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.722,
+    "longitude": 151.0461,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2127,
+    "place_name": "Sydney Olympic Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8498,
+    "longitude": 151.0683,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2127,
+    "place_name": "Wentworth Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8308,
+    "longitude": 151.0744,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2127,
+    "place_name": "Homebush Bay",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8626,
+    "longitude": 151.0913,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2127,
+    "place_name": "Newington",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8349,
+    "longitude": 151.057,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2128,
+    "place_name": "Silverwater",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8334,
+    "longitude": 151.0473,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2129,
+    "place_name": "Sydney Markets",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.7838,
+    "longitude": 151.0564,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2130,
+    "place_name": "Summer Hill",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8915,
+    "longitude": 151.1382,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2131,
+    "place_name": "Ashfield",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8883,
+    "longitude": 151.1227,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2132,
+    "place_name": "Croydon",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8833,
+    "longitude": 151.1167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2133,
+    "place_name": "Enfield South",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8972,
+    "longitude": 151.1032,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2133,
+    "place_name": "Croydon Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8972,
+    "longitude": 151.1032,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2134,
+    "place_name": "Burwood North",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8833,
+    "longitude": 151.1,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2134,
+    "place_name": "Burwood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8833,
+    "longitude": 151.1,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2135,
+    "place_name": "Strathfield",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.881,
+    "longitude": 151.0799,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2136,
+    "place_name": "Strathfield South",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8925,
+    "longitude": 151.0833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2136,
+    "place_name": "Burwood Heights",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8905,
+    "longitude": 151.1007,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2136,
+    "place_name": "Enfield",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8657,
+    "longitude": 151.1042,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2137,
+    "place_name": "Mortlake",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8422,
+    "longitude": 151.1072,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2137,
+    "place_name": "Breakfast Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8429,
+    "longitude": 151.1107,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2137,
+    "place_name": "Concord",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8472,
+    "longitude": 151.1038,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2137,
+    "place_name": "Cabarita",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8472,
+    "longitude": 151.1164,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2137,
+    "place_name": "North Strathfield",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8569,
+    "longitude": 151.0912,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2138,
+    "place_name": "Concord West",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8481,
+    "longitude": 151.0861,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2138,
+    "place_name": "Rhodes",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8266,
+    "longitude": 151.0881,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2138,
+    "place_name": "Liberty Grove",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8409,
+    "longitude": 151.084,
+    "accuracy": 4
+  },
+
+  {
+    "postcode": 2171,
+    "place_name": "Carnes Hill",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9385,
+    "longitude": 150.8488,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2171,
+    "place_name": "Cecil Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8892,
+    "longitude": 150.8514,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2171,
+    "place_name": "West Hoxton",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9167,
+    "longitude": 150.85,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2171,
+    "place_name": "Len Waters Estate",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9201,
+    "longitude": 150.8502,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2171,
+    "place_name": "Horningsea Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9434,
+    "longitude": 150.8453,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2171,
+    "place_name": "Elizabeth Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9201,
+    "longitude": 150.8502,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2171,
+    "place_name": "Middleton Grange",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.917,
+    "longitude": 150.8419,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2172,
+    "place_name": "Sandy Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -35.0628,
+    "longitude": 149.8635,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2172,
+    "place_name": "Voyager Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9587,
+    "longitude": 150.9742,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2172,
+    "place_name": "Pleasure Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9699,
+    "longitude": 150.9839,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2173,
+    "place_name": "Holsworthy",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9833,
+    "longitude": 150.9667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2173,
+    "place_name": "Wattle Grove",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9544,
+    "longitude": 150.9445,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2174,
+    "place_name": "Edmondson Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9569,
+    "longitude": 150.8613,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2175,
+    "place_name": "Horsley Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8432,
+    "longitude": 150.8489,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2176,
+    "place_name": "Bossley Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8618,
+    "longitude": 150.8841,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2176,
+    "place_name": "Abbotsbury",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8701,
+    "longitude": 150.8612,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2176,
+    "place_name": "St Johns Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.883,
+    "longitude": 150.9018,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2176,
+    "place_name": "Greenfield Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8746,
+    "longitude": 150.8919,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2176,
+    "place_name": "Prairiewood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8632,
+    "longitude": 150.9052,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2176,
+    "place_name": "Wakeley",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8743,
+    "longitude": 150.9098,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2176,
+    "place_name": "Edensor Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8797,
+    "longitude": 150.8778,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2177,
+    "place_name": "Bonnyrigg Heights",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8912,
+    "longitude": 150.8699,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2177,
+    "place_name": "Bonnyrigg",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8936,
+    "longitude": 150.8891,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2178,
+    "place_name": "Kemps Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8806,
+    "longitude": 150.7876,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2178,
+    "place_name": "Mount Vernon",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8604,
+    "longitude": 150.8101,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2178,
+    "place_name": "Cecil Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8743,
+    "longitude": 150.8418,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2179,
+    "place_name": "Austral",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9274,
+    "longitude": 150.8081,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2179,
+    "place_name": "Leppington",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9698,
+    "longitude": 150.7967,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2190,
+    "place_name": "Mount Lewis",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9175,
+    "longitude": 151.0483,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2190,
+    "place_name": "Greenacre",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9003,
+    "longitude": 151.0556,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2190,
+    "place_name": "Chullora",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9,
+    "longitude": 151.05,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2191,
+    "place_name": "Belfield",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9035,
+    "longitude": 151.0847,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2192,
+    "place_name": "Belmore",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.919,
+    "longitude": 151.0894,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2193,
+    "place_name": "Hurlstone Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9099,
+    "longitude": 151.1287,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2193,
+    "place_name": "Canterbury",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9119,
+    "longitude": 151.1186,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2193,
+    "place_name": "Ashbury",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8978,
+    "longitude": 151.1196,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2194,
+    "place_name": "Campsie",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9125,
+    "longitude": 151.1028,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2195,
+    "place_name": "Wiley Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9242,
+    "longitude": 151.0674,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2195,
+    "place_name": "Lakemba",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9197,
+    "longitude": 151.0759,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2196,
+    "place_name": "Roselands",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9332,
+    "longitude": 151.0732,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2196,
+    "place_name": "Punchbowl",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9289,
+    "longitude": 151.0511,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2197,
+    "place_name": "Bass Hill",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.8986,
+    "longitude": 150.9954,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2198,
+    "place_name": "Georges Hall",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9088,
+    "longitude": 150.9885,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2199,
+    "place_name": "Yagoona",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9049,
+    "longitude": 151.02,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2199,
+    "place_name": "Yagoona West",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9021,
+    "longitude": 151.0223,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2200,
+    "place_name": "Condell Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9246,
+    "longitude": 151.0109,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2200,
+    "place_name": "Mount Lewis",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9175,
+    "longitude": 151.0483,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2200,
+    "place_name": "Bankstown Square",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9224,
+    "longitude": 151.0231,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2200,
+    "place_name": "Bankstown Aerodrome",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9206,
+    "longitude": 151.0221,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2200,
+    "place_name": "Bankstown North",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9224,
+    "longitude": 151.0231,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2200,
+    "place_name": "Manahan",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9224,
+    "longitude": 151.0231,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2200,
+    "place_name": "Bankstown",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9167,
+    "longitude": 151.0333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2203,
+    "place_name": "Dulwich Hill",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9041,
+    "longitude": 151.1394,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2204,
+    "place_name": "Marrickville Metro",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9112,
+    "longitude": 151.1557,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2204,
+    "place_name": "Marrickville",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9032,
+    "longitude": 151.1518,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2204,
+    "place_name": "Marrickville South",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9032,
+    "longitude": 151.1518,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2205,
+    "place_name": "Turrella",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9303,
+    "longitude": 151.1421,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2205,
+    "place_name": "Wolli Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9313,
+    "longitude": 151.1522,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2205,
+    "place_name": "Arncliffe",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9363,
+    "longitude": 151.1482,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2206,
+    "place_name": "Earlwood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.95,
+    "longitude": 151.1,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2206,
+    "place_name": "Undercliffe",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9331,
+    "longitude": 151.1111,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2206,
+    "place_name": "Clemton Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9348,
+    "longitude": 151.0905,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2207,
+    "place_name": "Bexley South",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.95,
+    "longitude": 151.1167,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2207,
+    "place_name": "Bexley North",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9385,
+    "longitude": 151.1139,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2207,
+    "place_name": "Bexley",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.95,
+    "longitude": 151.1167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2207,
+    "place_name": "Bardwell Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9353,
+    "longitude": 151.1257,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2207,
+    "place_name": "Bardwell Valley",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9334,
+    "longitude": 151.1367,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2208,
+    "place_name": "Kingsway West",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9331,
+    "longitude": 151.1111,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2208,
+    "place_name": "Kingsgrove",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9393,
+    "longitude": 151.0993,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2209,
+    "place_name": "Beverly Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.948,
+    "longitude": 151.0798,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2209,
+    "place_name": "Narwee",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9465,
+    "longitude": 151.0692,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2210,
+    "place_name": "Peakhurst",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9629,
+    "longitude": 151.0516,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2210,
+    "place_name": "Peakhurst Heights",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9774,
+    "longitude": 151.0556,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2210,
+    "place_name": "Lugarno",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9827,
+    "longitude": 151.0418,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2210,
+    "place_name": "Riverwood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9473,
+    "longitude": 151.0497,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2211,
+    "place_name": "Padstow Heights",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9674,
+    "longitude": 151.0399,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2211,
+    "place_name": "Padstow",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9569,
+    "longitude": 151.0319,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2212,
+    "place_name": "Revesby Heights",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9671,
+    "longitude": 151.0184,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2212,
+    "place_name": "Revesby",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.95,
+    "longitude": 151.0167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2212,
+    "place_name": "Revesby North",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9498,
+    "longitude": 151.0148,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2213,
+    "place_name": "Panania",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9537,
+    "longitude": 150.9973,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2213,
+    "place_name": "East Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9667,
+    "longitude": 150.9833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2213,
+    "place_name": "Picnic Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9806,
+    "longitude": 150.9966,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2214,
+    "place_name": "Milperra",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9393,
+    "longitude": 150.9815,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2216,
+    "place_name": "Rockdale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.95,
+    "longitude": 151.1333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2216,
+    "place_name": "Kyeemagh",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9513,
+    "longitude": 151.162,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2216,
+    "place_name": "Brighton-Le-Sands",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9601,
+    "longitude": 151.1511,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2216,
+    "place_name": "Banksia",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.946,
+    "longitude": 151.143,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2217,
+    "place_name": "Beverley Park",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9736,
+    "longitude": 151.1373,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2217,
+    "place_name": "Ramsgate Beach",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9852,
+    "longitude": 151.1463,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2217,
+    "place_name": "Kogarah",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9833,
+    "longitude": 151.1167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2217,
+    "place_name": "Kogarah Bay",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9795,
+    "longitude": 151.1212,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2217,
+    "place_name": "Monterey",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9725,
+    "longitude": 151.1481,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2217,
+    "place_name": "Ramsgate",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9822,
+    "longitude": 151.14,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2218,
+    "place_name": "Allawah",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9726,
+    "longitude": 151.1144,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2218,
+    "place_name": "Carlton",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9711,
+    "longitude": 151.1214,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2219,
+    "place_name": "Dolls Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.995,
+    "longitude": 151.1455,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2219,
+    "place_name": "Sans Souci",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9979,
+    "longitude": 151.1293,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2219,
+    "place_name": "Sandringham",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9956,
+    "longitude": 151.14,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2220,
+    "place_name": "Hurstville Grove",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9799,
+    "longitude": 151.0903,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2220,
+    "place_name": "Hurstville Westfield",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9642,
+    "longitude": 151.0991,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2220,
+    "place_name": "Hurstville",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.9799,
+    "longitude": 151.0903,
+    "accuracy": 4
+  },
+
+  {
+    "postcode": 2340,
+    "place_name": "Garoo",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1512,
+    "longitude": 150.9383,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Hanging Rock",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.4822,
+    "longitude": 151.1921,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Appleby",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.9667,
+    "longitude": 150.85,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Westdale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0905,
+    "longitude": 150.8568,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Gowrie",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.35,
+    "longitude": 150.85,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Goonoo Goonoo",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.3079,
+    "longitude": 150.9027,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "South Tamworth",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.11,
+    "longitude": 150.9225,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Nundle",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.465,
+    "longitude": 151.1264,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Calala",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1736,
+    "longitude": 150.9806,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Carroll",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.9894,
+    "longitude": 150.4442,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Bithramere",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1357,
+    "longitude": 150.7811,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Woolomin",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.305,
+    "longitude": 151.1502,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Tamworth South",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2744,
+    "longitude": 151.0275,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Gidley",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0119,
+    "longitude": 150.8387,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Keepit",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.8333,
+    "longitude": 150.5167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Barry",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5817,
+    "longitude": 151.3183,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Oxley Vale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0632,
+    "longitude": 150.9006,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Duncans Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.3667,
+    "longitude": 151.2,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Weabonga",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2167,
+    "longitude": 151.3167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Warral",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1637,
+    "longitude": 150.8567,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Ogunbil",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1512,
+    "longitude": 150.9383,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2340,
+    "place_name": "North Tamworth",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0786,
+    "longitude": 150.9222,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Kingswood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -33.75,
+    "longitude": 150.75,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Dungowan",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2152,
+    "longitude": 151.1179,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Wallamore",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1512,
+    "longitude": 150.9383,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Bective",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0042,
+    "longitude": 150.7269,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Hallsville",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0112,
+    "longitude": 150.874,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Piallamore",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1659,
+    "longitude": 151.0576,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Taminda",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0941,
+    "longitude": 150.8962,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "West Tamworth",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1024,
+    "longitude": 150.9145,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Nemingha",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1237,
+    "longitude": 150.9892,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Timbumburi",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1512,
+    "longitude": 150.9383,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Bowling Alley Point",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.3956,
+    "longitude": 151.1397,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "East Tamworth",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0855,
+    "longitude": 150.9372,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2340,
+    "place_name": "Tamworth",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0905,
+    "longitude": 150.929,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2341,
+    "place_name": "Werris Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.3491,
+    "longitude": 150.6487,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2342,
+    "place_name": "Piallaway",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1667,
+    "longitude": 150.5833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2342,
+    "place_name": "Currabubula",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2667,
+    "longitude": 150.7333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Coomoo Coomoo",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5553,
+    "longitude": 150.3414,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Warrah Ridge",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5667,
+    "longitude": 150.55,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Spring Ridge",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.4,
+    "longitude": 150.25,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Quirindi",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5076,
+    "longitude": 150.679,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Pine Ridge",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.499,
+    "longitude": 150.4539,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Blackville",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.6438,
+    "longitude": 150.2361,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Colly Blue",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.4592,
+    "longitude": 150.1458,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Yarraman",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.6167,
+    "longitude": 150.2,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Wallabadah",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5425,
+    "longitude": 150.8282,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Caroona",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.4066,
+    "longitude": 150.4264,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Borambil",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5071,
+    "longitude": 150.6419,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Bundella",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5664,
+    "longitude": 149.9929,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Windy",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5976,
+    "longitude": 150.3836,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Yannergee",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.4437,
+    "longitude": 150.0303,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2343,
+    "place_name": "Quipolly",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.4284,
+    "longitude": 150.6564,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2344,
+    "place_name": "Duri",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2141,
+    "longitude": 150.8219,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2344,
+    "place_name": "Winton",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0818,
+    "longitude": 150.7179,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2345,
+    "place_name": "Garthowen",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.8951,
+    "longitude": 150.7835,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2345,
+    "place_name": "Attunga",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.9303,
+    "longitude": 150.8468,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Wongo Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7,
+    "longitude": 150.5,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Borah Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7295,
+    "longitude": 150.6539,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Manilla",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7475,
+    "longitude": 150.7197,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Halls Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7295,
+    "longitude": 150.6539,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Klori",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.8318,
+    "longitude": 150.7679,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Namoi River",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7295,
+    "longitude": 150.6539,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Upper Manilla",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6385,
+    "longitude": 150.6635,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Wimborne",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7295,
+    "longitude": 150.6539,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2346,
+    "place_name": "New Mexico",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7424,
+    "longitude": 150.6185,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Rushes Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7295,
+    "longitude": 150.6539,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2346,
+    "place_name": "Warrabah",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7295,
+    "longitude": 150.6539,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Thirldene",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2297,
+    "longitude": 150.5773,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Woodsreef",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.3818,
+    "longitude": 150.7346,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Cobbadah",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2286,
+    "longitude": 150.5823,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Banoon",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2297,
+    "longitude": 150.5773,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Red Hill",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -35.0523,
+    "longitude": 149.1643,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Barraba",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.3855,
+    "longitude": 150.609,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Gundamulda",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2297,
+    "longitude": 150.5773,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Gulf Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1985,
+    "longitude": 150.7012,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Mayvale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2297,
+    "longitude": 150.5773,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Upper Horton",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1333,
+    "longitude": 150.4333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Ironbark",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2297,
+    "longitude": 150.5773,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Lindesay",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2297,
+    "longitude": 150.5773,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2347,
+    "place_name": "Longarm",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2297,
+    "longitude": 150.5773,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2348,
+    "place_name": "New England Mc",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.191,
+    "longitude": 150.7174,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Hillgrove",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5712,
+    "longitude": 151.9045,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Tilbuster",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.4333,
+    "longitude": 151.6667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Dangarsleigh",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6055,
+    "longitude": 151.6898,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Lyndhurst",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.3167,
+    "longitude": 152.05,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Castle Doyle",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6152,
+    "longitude": 151.7679,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Duval",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.461,
+    "longitude": 151.7789,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Wongwibinda",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2928,
+    "longitude": 152.1661,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Abington",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2833,
+    "longitude": 151.1833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Dumaresq",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.4667,
+    "longitude": 151.5833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Aberfoyle",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2667,
+    "longitude": 152.0167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Saumarez",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5546,
+    "longitude": 151.5837,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "East Armidale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.506,
+    "longitude": 151.9832,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Boorolong",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.3235,
+    "longitude": 151.5346,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Wollomombi",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5143,
+    "longitude": 152.0435,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Kellys Plains",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5712,
+    "longitude": 151.6436,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Jeogla",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5765,
+    "longitude": 152.1184,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Enmore",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7333,
+    "longitude": 151.8,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Wards Mistake",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1318,
+    "longitude": 152.0096,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Armidale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5083,
+    "longitude": 151.6712,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Saumarez Ponds",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.461,
+    "longitude": 151.7789,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Invergowrie",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.512,
+    "longitude": 151.507,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Thalgarrah",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.461,
+    "longitude": 151.7789,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2350,
+    "place_name": "West Armidale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.506,
+    "longitude": 151.9832,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Puddledock",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.3667,
+    "longitude": 151.7667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Donald Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.461,
+    "longitude": 151.7789,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Argyle",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.461,
+    "longitude": 151.7789,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2350,
+    "place_name": "Metz",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5785,
+    "longitude": 151.8735,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2351,
+    "place_name": "University Of New England",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.85,
+    "longitude": 151.0635,
+    "accuracy": 1
+  },
+  {
+    "postcode": 2352,
+    "place_name": "Limbri",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0388,
+    "longitude": 151.1553,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2352,
+    "place_name": "Mulla Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0695,
+    "longitude": 151.0734,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2352,
+    "place_name": "Kootingal",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0586,
+    "longitude": 151.0535,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2352,
+    "place_name": "Tintinhull",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0925,
+    "longitude": 151.0202,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2353,
+    "place_name": "Moonbi",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0177,
+    "longitude": 151.0706,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2354,
+    "place_name": "Woolbrook",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.9652,
+    "longitude": 151.3512,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2354,
+    "place_name": "Niangala",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.3001,
+    "longitude": 151.4049,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2354,
+    "place_name": "Kentucky",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7614,
+    "longitude": 151.4489,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2354,
+    "place_name": "Walcha",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.9849,
+    "longitude": 151.5934,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2354,
+    "place_name": "Nowendoc",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.5175,
+    "longitude": 151.7148,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2354,
+    "place_name": "Wollun",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.8464,
+    "longitude": 151.4263,
+    "accuracy": 4
+  },
+  {
+    "postcode": 4032,
+    "place_name": "Chermside South",
+    "state_name": "Queensland",
+    "state_code": "QLD",
+    "latitude": -27.3847,
+    "longitude": 153.0306,
+    "accuracy": 3
+  },
+  {
+    "postcode": 4034,
+    "place_name": "Carseldine",
+    "state_name": "Queensland",
+    "state_code": "QLD",
+    "latitude": -27.3475,
+    "longitude": 153.0231,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2354,
+    "place_name": "Kentucky South",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7973,
+    "longitude": 151.4401,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2355,
+    "place_name": "Watsons Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7384,
+    "longitude": 151.0513,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2355,
+    "place_name": "Retreat",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6068,
+    "longitude": 151.1068,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2355,
+    "place_name": "Bendemeer",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.8865,
+    "longitude": 151.1535,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2356,
+    "place_name": "Gwabegar",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6101,
+    "longitude": 148.9675,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Coonabarabran",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2773,
+    "longitude": 149.279,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Ulamambri",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.328,
+    "longitude": 149.4007,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Gowang",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.4235,
+    "longitude": 149.0846,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Wattle Springs",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2332,
+    "longitude": 149.2463,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Purlewaugh",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.346,
+    "longitude": 149.5092,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Box Ridge",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.25,
+    "longitude": 148.8167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Dandry",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.0277,
+    "longitude": 149.4043,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Rocky Glen",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1167,
+    "longitude": 149.5667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Tannabar",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2332,
+    "longitude": 149.2463,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Bugaldie",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.1252,
+    "longitude": 149.1116,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2357,
+    "place_name": "Bomera",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -31.2332,
+    "longitude": 149.2463,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Gostwyck",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6941,
+    "longitude": 151.5834,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Arding",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.5677,
+    "longitude": 151.5254,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Yarrowyck",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.4639,
+    "longitude": 151.3222,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Enmore",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7333,
+    "longitude": 151.8,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Rocky River",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6167,
+    "longitude": 151.5,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Torryburn",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.45,
+    "longitude": 151.2167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Balala",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6046,
+    "longitude": 151.4612,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Salisbury Plains",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7667,
+    "longitude": 151.5333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2358,
+    "place_name": "Mihi",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.6046,
+    "longitude": 151.4612,
+    "accuracy": 3
+  },
+  {
+    "postcode": 4109,
+    "place_name": "Sunnybank South",
+    "state_name": "Queensland",
+    "state_code": "QLD",
+    "latitude": -27.5741,
+    "longitude": 153.0583,
+    "accuracy": 3
+  },
+  {
+    "postcode": 4110,
+    "place_name": "Willawong",
+    "state_name": "Queensland",
+    "state_code": "QLD",
+    "latitude": -27.5972,
+    "longitude": 153.0074,
+    "accuracy": 4
+  },
+  {
+    "postcode": 4110,
+    "place_name": "Larapinta",
+    "state_name": "Queensland",
+    "state_code": "QLD",
+    "latitude": -27.6426,
+    "longitude": 153.0052,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2359,
+    "place_name": "Bakers Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2667,
+    "longitude": 151.0167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2359,
+    "place_name": "Bundarra",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1721,
+    "longitude": 151.0762,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2359,
+    "place_name": "Aberdeen",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -32.1659,
+    "longitude": 150.89,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2359,
+    "place_name": "Camerons Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2194,
+    "longitude": 151.0464,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Wandera",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.6833,
+    "longitude": 151.1667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Copeton",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.9167,
+    "longitude": 151.0167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Mount Russell",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.6772,
+    "longitude": 150.9286,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Little Plain",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.7303,
+    "longitude": 150.955,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Auburn Vale",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.821,
+    "longitude": 151.0454,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Rob Roy",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.75,
+    "longitude": 151.0167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Cherry Tree Hill",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.5368,
+    "longitude": 150.9946,
+    "accuracy": 4
+  },
+  {
+    "postcode": 3101,
+    "place_name": "Cotham",
+    "state_name": "Victoria",
+    "state_code": "VIC",
+    "latitude": -37.8064,
+    "longitude": 145.0309,
+    "accuracy": 3
+  },
+  {
+    "postcode": 3102,
+    "place_name": "Kew East",
+    "state_name": "Victoria",
+    "state_code": "VIC",
+    "latitude": -37.7976,
+    "longitude": 145.0538,
+    "accuracy": 4
+  },
+  {
+    "postcode": 3103,
+    "place_name": "Balwyn",
+    "state_name": "Victoria",
+    "state_code": "VIC",
+    "latitude": -37.8117,
+    "longitude": 145.081,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Inverell",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.774,
+    "longitude": 151.1117,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Bukkulla",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.5045,
+    "longitude": 151.1293,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Howell",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.95,
+    "longitude": 151.0333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Spring Mountain",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.718,
+    "longitude": 151.0965,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Gilgai",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.8527,
+    "longitude": 151.1181,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Nullamanna",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.65,
+    "longitude": 151.2167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Brodies Plains",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.8094,
+    "longitude": 151.1956,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Long Plain",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.718,
+    "longitude": 151.0965,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Woodstock",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.718,
+    "longitude": 151.0965,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Wallangra",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.2468,
+    "longitude": 150.8931,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Oakwood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.6458,
+    "longitude": 151.0442,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Kings Plains",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.718,
+    "longitude": 151.0965,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Newstead",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.8333,
+    "longitude": 151.35,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Paradise",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.718,
+    "longitude": 151.0965,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Elsmore",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.8065,
+    "longitude": 151.2689,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Gum Flat",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.7943,
+    "longitude": 150.9296,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2360,
+    "place_name": "Graman",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.4694,
+    "longitude": 150.9267,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2361,
+    "place_name": "Ashford",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.3219,
+    "longitude": 151.0931,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2361,
+    "place_name": "Atholwood",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -28.9985,
+    "longitude": 151.0512,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2361,
+    "place_name": "Limestone",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.1295,
+    "longitude": 151.1366,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2361,
+    "place_name": "Bonshaw",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.0479,
+    "longitude": 151.2757,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2361,
+    "place_name": "Pindaroi",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.1295,
+    "longitude": 151.1366,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Oban",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1333,
+    "longitude": 151.8667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Brushy Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Tubbamurra",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1152,
+    "longitude": 151.7679,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Glencoe",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.9249,
+    "longitude": 151.7223,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Brockley",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2833,
+    "longitude": 151.8167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Ben Lomond",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.0167,
+    "longitude": 151.6667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Georges Creek",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.7461,
+    "longitude": 152.1945,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Guyra",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2167,
+    "longitude": 151.6744,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "The Gulf",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.3167,
+    "longitude": 151.4833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Falconer",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Llangothlin",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1372,
+    "longitude": 151.6843,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Black Mountain",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.3107,
+    "longitude": 151.6582,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Baldersleigh",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.2555,
+    "longitude": 151.426,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Bald Blair",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Mount Mitchell",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.0167,
+    "longitude": 151.85,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Wandsworth",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.0671,
+    "longitude": 151.52,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Maybole",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -29.8985,
+    "longitude": 151.5846,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "South Guyra",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Backwater",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.0652,
+    "longitude": 151.8846,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Tenterden",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1318,
+    "longitude": 151.4346,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Green Hills",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -32.9176,
+    "longitude": 149.5836,
+    "accuracy": 4
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Briarbrook",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Bassendean",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "Glen Nevis",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 2365,
+    "place_name": "The Basin",
+    "state_name": "New South Wales",
+    "state_code": "NSW",
+    "latitude": -30.1052,
+    "longitude": 151.7015,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Westerway",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.6833,
+    "longitude": 146.7833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Ellendale",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.6167,
+    "longitude": 146.7167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "National Park",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.6805,
+    "longitude": 146.7277,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Molesworth",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.5434,
+    "longitude": 146.4477,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Tarraleah",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.3015,
+    "longitude": 146.4492,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Strickland",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.3667,
+    "longitude": 146.6667,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "New Norfolk",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7826,
+    "longitude": 147.0587,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Styx",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.618,
+    "longitude": 146.8279,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Uxbridge",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.773,
+    "longitude": 146.8686,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Derwent Bridge",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.1394,
+    "longitude": 146.2314,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Little Pine Lagoon",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.618,
+    "longitude": 146.8279,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Tyenna",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7287,
+    "longitude": 146.6665,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Boyer",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7823,
+    "longitude": 147.1062,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Dee",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.2833,
+    "longitude": 146.6167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Glenfern",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8167,
+    "longitude": 147,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Rosegarland",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7,
+    "longitude": 146.9489,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Meadowbank",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.618,
+    "longitude": 146.8279,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7140,
+    "place_name": "Florentine",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.618,
+    "longitude": 146.8279,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7140,
+    "place_name": "London Lakes",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.618,
+    "longitude": 146.8279,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Allens Rivulet",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0151,
+    "longitude": 147.2014,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Upper Woodstock",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.2345,
+    "longitude": 147.2537,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7150,
+    "place_name": "South Bruny",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.4386,
+    "longitude": 147.2462,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Barnes Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1216,
+    "longitude": 147.368,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Pelverata",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0462,
+    "longitude": 147.1127,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Killora",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.2345,
+    "longitude": 147.2537,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Oyster Cove",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1052,
+    "longitude": 147.2436,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Lunawanna",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.3666,
+    "longitude": 147.2432,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Simpsons Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.278,
+    "longitude": 147.2997,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "North Bruny",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1287,
+    "longitude": 147.2464,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Gordon",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.262,
+    "longitude": 147.2395,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Apollo Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1287,
+    "longitude": 147.2464,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Dennes Point",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0628,
+    "longitude": 147.3528,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Great Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.2345,
+    "longitude": 147.2537,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Adventure Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.3602,
+    "longitude": 147.3214,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Alonnah",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.315,
+    "longitude": 147.2443,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Longley",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.9708,
+    "longitude": 147.1947,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Sandfly",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.9833,
+    "longitude": 147.1962,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7150,
+    "place_name": "Kaoota",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0167,
+    "longitude": 147.1833,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7151,
+    "place_name": "Macquarie Island",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7167,
+    "longitude": 146.9167,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7151,
+    "place_name": "Macquarie",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7119,
+    "longitude": 146.9131,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7151,
+    "place_name": "Casey",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7167,
+    "longitude": 146.9167,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7151,
+    "place_name": "Mawson",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7167,
+    "longitude": 146.9167,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7151,
+    "place_name": "Davis",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7167,
+    "longitude": 146.9167,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7151,
+    "place_name": "Heard Island",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7167,
+    "longitude": 146.9167,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7151,
+    "place_name": "Mcdonald Islands",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7167,
+    "longitude": 146.9167,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7155,
+    "place_name": "Kettering",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1262,
+    "longitude": 147.2464,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7162,
+    "place_name": "Birchs Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1755,
+    "longitude": 147.242,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7162,
+    "place_name": "Woodbridge",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1557,
+    "longitude": 147.2389,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7163,
+    "place_name": "Flowerpot",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.2336,
+    "longitude": 147.2198,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7163,
+    "place_name": "Middleton",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.2316,
+    "longitude": 147.2529,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7170,
+    "place_name": "Seven Mile Beach",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8586,
+    "longitude": 147.5053,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7170,
+    "place_name": "Roches Beach",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8902,
+    "longitude": 147.4953,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7170,
+    "place_name": "Cambridge",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8333,
+    "longitude": 147.45,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7170,
+    "place_name": "Mount Rumney",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8606,
+    "longitude": 147.4476,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7170,
+    "place_name": "Acton Park",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8793,
+    "longitude": 147.4846,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7171,
+    "place_name": "Penna",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7776,
+    "longitude": 147.5228,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7171,
+    "place_name": "Midway Point",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7816,
+    "longitude": 147.5627,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7172,
+    "place_name": "Orielton",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7333,
+    "longitude": 147.5333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7172,
+    "place_name": "Sorell",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7816,
+    "longitude": 147.5627,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7172,
+    "place_name": "Nugent",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7172,
+    "longitude": 147.7522,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7172,
+    "place_name": "Pawleena",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7333,
+    "longitude": 147.6,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7172,
+    "place_name": "Wattle Hill",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7667,
+    "longitude": 147.65,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7173,
+    "place_name": "Forcett",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8,
+    "longitude": 147.6333,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7173,
+    "place_name": "Carlton River",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8474,
+    "longitude": 147.6451,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7173,
+    "place_name": "Primrose Sands",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8858,
+    "longitude": 147.6695,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7173,
+    "place_name": "Lewisham",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8333,
+    "longitude": 147.6167,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7173,
+    "place_name": "Dodges Ferry",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8531,
+    "longitude": 147.6226,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7173,
+    "place_name": "Connellys Marsh",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8222,
+    "longitude": 147.6703,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7173,
+    "place_name": "Carlton",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.874,
+    "longitude": 147.6534,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7174,
+    "place_name": "Copping",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8167,
+    "longitude": 147.8,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7175,
+    "place_name": "Bream Creek",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8133,
+    "longitude": 147.8342,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7175,
+    "place_name": "Marion Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8133,
+    "longitude": 147.8342,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7176,
+    "place_name": "Kellevie",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.7785,
+    "longitude": 147.8153,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7177,
+    "place_name": "Boomer Bay",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8865,
+    "longitude": 147.8108,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7177,
+    "place_name": "Dunalley",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.8865,
+    "longitude": 147.8108,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7178,
+    "place_name": "Murdunna",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.9473,
+    "longitude": 147.8705,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7179,
+    "place_name": "Eaglehawk Neck",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0179,
+    "longitude": 147.9222,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7180,
+    "place_name": "Taranna",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0629,
+    "longitude": 147.863,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7182,
+    "place_name": "Port Arthur",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1458,
+    "longitude": 147.8437,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7182,
+    "place_name": "Cape Pillar",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.15,
+    "longitude": 147.85,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7182,
+    "place_name": "Fortescue",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.15,
+    "longitude": 147.85,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7183,
+    "place_name": "Highcroft",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1333,
+    "longitude": 147.8,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7184,
+    "place_name": "White Beach",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1249,
+    "longitude": 147.7212,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7184,
+    "place_name": "Nubeena",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0971,
+    "longitude": 147.7433,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7184,
+    "place_name": "Cape Raoul",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.111,
+    "longitude": 147.7322,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7184,
+    "place_name": "Stormlea",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.1703,
+    "longitude": 147.7718,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7185,
+    "place_name": "Premaydena",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0546,
+    "longitude": 147.7708,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7186,
+    "place_name": "Saltwater River",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0234,
+    "longitude": 147.7183,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7186,
+    "place_name": "Sloping Main",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.0167,
+    "longitude": 147.75,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7187,
+    "place_name": "Koonya",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -43.05,
+    "longitude": 147.85,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7190,
+    "place_name": "Swansea",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.1228,
+    "longitude": 148.0743,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7190,
+    "place_name": "Little Swanport",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.3375,
+    "longitude": 147.9334,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7190,
+    "place_name": "Dolphin Sands",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.4221,
+    "longitude": 147.8876,
+    "accuracy": 3
+  },
+  {
+    "postcode": 7190,
+    "place_name": "Runnymede",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.6419,
+    "longitude": 147.5605,
+    "accuracy": 4
+  },
+  {
+    "postcode": 7190,
+    "place_name": "Rheban",
+    "state_name": "Tasmania",
+    "state_code": "TAS",
+    "latitude": -42.63,
+    "longitude": 147.928,
+    "accuracy": 4
+  }
+]
