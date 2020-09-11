@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-virtualized-maplist/static/css/main.a246f696.chunk.css",
+    "main.js": "/react-virtualized-maplist/static/js/main.4480125b.chunk.js",
+    "main.js.map": "/react-virtualized-maplist/static/js/main.4480125b.chunk.js.map",
+    "runtime-main.js": "/react-virtualized-maplist/static/js/runtime-main.3225495f.js",
+    "runtime-main.js.map": "/react-virtualized-maplist/static/js/runtime-main.3225495f.js.map",
+    "static/js/2.81579551.chunk.js": "/react-virtualized-maplist/static/js/2.81579551.chunk.js",
+    "static/js/2.81579551.chunk.js.map": "/react-virtualized-maplist/static/js/2.81579551.chunk.js.map",
+    "index.html": "/react-virtualized-maplist/index.html",
+    "precache-manifest.8cd94dafd8085118ec5108a113e42fc8.js": "/react-virtualized-maplist/precache-manifest.8cd94dafd8085118ec5108a113e42fc8.js",
+    "service-worker.js": "/react-virtualized-maplist/service-worker.js",
+    "static/css/main.a246f696.chunk.css.map": "/react-virtualized-maplist/static/css/main.a246f696.chunk.css.map",
+    "static/js/2.81579551.chunk.js.LICENSE.txt": "/react-virtualized-maplist/static/js/2.81579551.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3225495f.js",
+    "static/js/2.81579551.chunk.js",
+    "static/css/main.a246f696.chunk.css",
+    "static/js/main.4480125b.chunk.js"
+  ]
+}
